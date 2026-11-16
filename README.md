@@ -1,6 +1,10 @@
 # React Project 1 – User Profile Cards
 
-## About the Project
+## 🚀 Live Demo
+
+[View Live Website](https://react-project-1-alpha-ochre.vercel.app/).
+
+## 📌 About the Project
 
 This is my first React project, developed as part of a React development challenge.
 
@@ -8,7 +12,7 @@ The main objective of this project is to build a responsive user profile card ap
 
 Each user profile displays a profile image, name, role, social media icons, action buttons, and post statistics.
 
-## Challenge Objectives
+## 🎯 Challenge Objectives
 
 - Create a reusable `UserCard` component.
 - Pass user information through props.
@@ -17,7 +21,7 @@ Each user profile displays a profile image, name, role, social media icons, acti
 - Create a responsive grid layout.
 - Style the application using Tailwind CSS.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - React.js
 - Vite
@@ -26,7 +30,7 @@ Each user profile displays a profile image, name, role, social media icons, acti
 - React Icons
 - JSON
 
-## Project Features
+## ✨ Project Features
 
 - Reusable user profile card component.
 - Dynamic user information using React props.
@@ -37,24 +41,53 @@ Each user profile displays a profile image, name, role, social media icons, acti
 - Responsive grid layout for different screen sizes.
 - Tailwind CSS for styling.
 
-## Installation and Setup
+## 📂 Project Structure
+
+React-project-1/
+│
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── UserCard.jsx
+│   │   ├── Button.jsx
+│   │   ├── PostInfo.jsx
+│   │   ├── CreateLine.jsx
+│   │   ├── SocialIcon.jsx
+│   │   └── users-data.json
+│   │
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── vite.config.js
+├── package.json
+├── package-lock.json
+└── README.md
+
+## 💻 Installation and Setup
 
 ### 1. Clone the Repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+
+git clone https://github.com/mariamsohail-dev/React-project-1.git
 
 ### 2. Navigate to the Project Folder
-cd react-project-1
+
+cd React-project-1
 
 ### 3. Install Dependencies
+
 npm install
 
 ### 4. Start the Development Server
-npm run dev
 
+npm run dev
 
 Open the local URL provided by Vite in your browser.
 
-## What I Learned
+## 📚 What I Learned
 
 Through this project, I practiced:
 
@@ -67,12 +100,20 @@ Through this project, I practiced:
 - Creating responsive layouts.
 - Organizing a React project into components.
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Add dynamic social media links and icons for each user.
 - Make the Subscribe and Message buttons functional.
 - Improve user interactions.
 
-## Author
+## 👩‍💻 Author
 
 Created as my first React practice project.
+
+**GitHub:** [mariamsohail-dev](https://github.com/mariamsohail-dev)
+
+**Live Project:** [React Project 1](https://react-project-1-alpha-ochre.vercel.app/)
+
+---
+
+⭐ If you like this project, feel free to explore the repository!
