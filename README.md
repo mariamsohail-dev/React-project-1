@@ -43,10 +43,13 @@ Each user profile displays a profile image, name, role, social media icons, acti
 
 ## 📂 Project Structure
 
+```text
 React-project-1/
 │
 ├── public/
+│
 ├── src/
+│   │
 │   ├── components/
 │   │   ├── UserCard.jsx
 │   │   ├── Button.jsx
@@ -66,6 +69,7 @@ React-project-1/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## 💻 Installation and Setup
 
