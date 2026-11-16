@@ -37,39 +37,6 @@ Each user profile displays a profile image, name, role, social media icons, acti
 - Responsive grid layout for different screen sizes.
 - Tailwind CSS for styling.
 
-## Project Structure
-
-
-React project 1/
-|
-|── app/
-     │
-     ├── public/
-     |
-     ├── node_modules/
-     |
-     ├── src/
-     │   ├── components/
-     │   │   ├── UserCard.jsx
-     │   │   ├── Button.jsx
-     │   │   ├── PostInfo.jsx
-     │   │   ├── CreateLine.jsx
-     │   │   ├── SocialIcon.jsx
-     │   │   └── users-data.json
-     │   │
-     │   ├── App.jsx
-     │   ├── index.css
-     │   └── main.jsx
-     │
-     ├── .gitignore
-     ├── eslint.config.js
-     ├── index.html
-     ├── vite.config.js
-     ├── package-lock.json
-     ├── package.json
-     └── README.md
-
-
 ## Installation and Setup
 
 ### 1. Clone the Repository
